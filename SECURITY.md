@@ -1,6 +1,3 @@
-Here’s a **strong, clear, and actionable** security policy template for your repository, tailored to open-source projects and best practices:
-
----
 
 # Security Policy
 
